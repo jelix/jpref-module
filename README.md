@@ -1,9 +1,9 @@
-This module for Jelix provides preferences api.
+Modules for Jelix providing preferences api.
 
-This module is for Jelix 1.9.x or higher. See the jelix/jelix repository to see
+These modules are for Jelix 1.9.x or higher. See the jelix/jelix repository to see
 history of classes before Jelix 1.9.
 
-This module has been removed from jelix/jelix because it is deprecated.
+These modules has been removed from jelix/jelix because it is deprecated.
 
 
 Installation

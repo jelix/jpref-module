@@ -18,7 +18,8 @@
     "extra" : {
         "jelix" : {
             "modules": [
-                "jpref"
+              "jpref",
+              "jpref_admin"
             ]
         },
         "branch-alias": {
